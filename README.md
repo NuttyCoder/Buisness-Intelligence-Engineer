@@ -1,3 +1,18 @@
+# Heather Scheer - Business Intelligence Engineer Portfolio
+
+**Core Skills**: SQL Server | SSIS/SSAS/SSRS | Power BI (DAX/M) | Data Modeling | Agile BI
+
+## Featured Projects
+| Project | Technologies | Key Features |
+|---------|--------------|-------------|
+| [🏭 Sales Analytics Pipeline](#) | SSIS, Power BI, SQL | ETL optimization, DAX measures |
+| [📊 Financial Cube Analysis](#) | SSAS, MDX, Excel | Cube design, time intelligence |
+| [⚡ Agile Reporting Dashboard](#) | Power BI, DevOps | Sprint tracking, version control |
+
+[View Full Portfolio](#projects)
+[▶️ Video Introduction](link-to-loom-demo)
+
+
 # Buisness-Intelligence-Engineer
 # Portfolio Development Plan
 dateFormat  YYYY-MM-DD

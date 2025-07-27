@@ -13,9 +13,7 @@
 [▶️ Video Introduction](link-to-loom-demo)
 
 
-# Buisness-Intelligence-Engineer
-# Portfolio Development Plan
-dateFormat  YYYY-MM-DD
+
 Core Projects
 Sales Pipeline     :done,    p1, 2024-06-01, 14d
 Financial Cube     :active,  p2, 2024-06-15, 10d
